@@ -1,0 +1,23 @@
+.main-container {
+    -fx-background-color: #F2F2F7; /* iOS Light Gray Background */
+    -fx-padding: 25;
+}
+
+.header-text {
+    -fx-font-size: 34px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000000;
+}
+
+.list-view {
+    -fx-background-radius: 10;
+    -fx-background-color: white;
+    -fx-border-color: transparent;
+}
+
+.button {
+    -fx-background-color: #007AFF;
+    -fx-text-fill: white;
+    -fx-background-radius: 20;
+    -fx-font-weight: bold;
+}
